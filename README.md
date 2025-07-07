@@ -61,15 +61,20 @@ chmod +x linux.sh
 首次运行会生成助记词等账户信息，请根据提示保存。
 
 把助记词导入钱包，可以看到账户余额，如果正常运行，账户42T会一直增加：
+
 42T ca: 0x22A3d96424Df6f04d02477cB5ba571BBf615F47E
+
 ![image](https://github.com/user-attachments/assets/3ad7a2d9-4307-479e-87b0-47a909f1e404)
 
+---
 
 #### 选择模型
 
 可以根据自己显存大小选择模型，正常运行后，按：Ctrl+A+D 退出screen会话。
+
 ![image](https://github.com/user-attachments/assets/5325ced1-8075-4208-bbed-fa233ad2de44)
 
+---
 
 ####  管理节点
 
